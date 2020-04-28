@@ -15,6 +15,9 @@
 		E2FC841E2457EADF0018C423 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2FC841C2457EADF0018C423 /* LaunchScreen.storyboard */; };
 		E2FC84292457EADF0018C423 /* PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FC84282457EADF0018C423 /* PracticeTests.swift */; };
 		E2FC84342457EADF0018C423 /* PracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2FC84332457EADF0018C423 /* PracticeUITests.swift */; };
+		E2FC8444245805B10018C423 /* pet_cat_birthday_cake.png in Resources */ = {isa = PBXBuildFile; fileRef = E2FC8441245805B10018C423 /* pet_cat_birthday_cake.png */; };
+		E2FC8445245805B10018C423 /* pyoko12_christmas_wreath-2.png in Resources */ = {isa = PBXBuildFile; fileRef = E2FC8442245805B10018C423 /* pyoko12_christmas_wreath-2.png */; };
+		E2FC8446245805B10018C423 /* hanami_neko.png in Resources */ = {isa = PBXBuildFile; fileRef = E2FC8443245805B10018C423 /* hanami_neko.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		E2FC842F2457EADF0018C423 /* PracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2FC84332457EADF0018C423 /* PracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeUITests.swift; sourceTree = "<group>"; };
 		E2FC84352457EADF0018C423 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2FC8441245805B10018C423 /* pet_cat_birthday_cake.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pet_cat_birthday_cake.png; sourceTree = "<group>"; };
+		E2FC8442245805B10018C423 /* pyoko12_christmas_wreath-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pyoko12_christmas_wreath-2.png"; sourceTree = "<group>"; };
+		E2FC8443245805B10018C423 /* hanami_neko.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hanami_neko.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +109,9 @@
 				E2FC84132457EADD0018C423 /* SceneDelegate.swift */,
 				E2FC84152457EADD0018C423 /* ViewController.swift */,
 				E2FC84172457EADD0018C423 /* Main.storyboard */,
+				E2FC8443245805B10018C423 /* hanami_neko.png */,
+				E2FC8441245805B10018C423 /* pet_cat_birthday_cake.png */,
+				E2FC8442245805B10018C423 /* pyoko12_christmas_wreath-2.png */,
 				E2FC841A2457EADF0018C423 /* Assets.xcassets */,
 				E2FC841C2457EADF0018C423 /* LaunchScreen.storyboard */,
 				E2FC841F2457EADF0018C423 /* Info.plist */,
@@ -232,8 +241,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2FC8445245805B10018C423 /* pyoko12_christmas_wreath-2.png in Resources */,
 				E2FC841E2457EADF0018C423 /* LaunchScreen.storyboard in Resources */,
+				E2FC8444245805B10018C423 /* pet_cat_birthday_cake.png in Resources */,
 				E2FC841B2457EADF0018C423 /* Assets.xcassets in Resources */,
+				E2FC8446245805B10018C423 /* hanami_neko.png in Resources */,
 				E2FC84192457EADD0018C423 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
